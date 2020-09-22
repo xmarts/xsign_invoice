@@ -1,0 +1,4 @@
+[submodule "xmarts/l10n-mx-sign-invoice-server"]
+	path = xmarts/l10n-mx-sign-invoice-server
+	url = git@github.com:xmarts/l10n-mx-sign-invoice-server.git
+	branch = 13.0
